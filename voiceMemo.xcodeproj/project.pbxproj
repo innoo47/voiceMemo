@@ -11,6 +11,39 @@
 		653559442B597C6F00A86BC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653559432B597C6F00A86BC4 /* ContentView.swift */; };
 		653559462B597C7200A86BC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 653559452B597C7200A86BC4 /* Assets.xcassets */; };
 		653559492B597C7200A86BC4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 653559482B597C7200A86BC4 /* Preview Assets.xcassets */; };
+		653559512B59C26500A86BC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 653559502B59C26500A86BC4 /* LaunchScreen.storyboard */; };
+		653559582B5A81F200A86BC4 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653559572B5A81F200A86BC4 /* Color+Extension.swift */; };
+		6535595C2B5AEFC100A86BC4 /* OnboardingContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6535595B2B5AEFC100A86BC4 /* OnboardingContent.swift */; };
+		653559602B5AF0B300A86BC4 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6535595F2B5AF0B200A86BC4 /* OnboardingViewModel.swift */; };
+		653559622B5AF2C900A86BC4 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653559612B5AF2C900A86BC4 /* OnboardingView.swift */; };
+		6546561F2B8892CE00873E57 /* VoiceRecorderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6546561E2B8892CE00873E57 /* VoiceRecorderView.swift */; };
+		655BF70D2B5D0EA3008EC1E4 /* PathType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF70C2B5D0EA3008EC1E4 /* PathType.swift */; };
+		655BF70F2B5D0F0E008EC1E4 /* Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF70E2B5D0F0E008EC1E4 /* Path.swift */; };
+		655BF71A2B5D21AB008EC1E4 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF7192B5D21AB008EC1E4 /* Date+Extension.swift */; };
+		655BF71F2B5E9A9E008EC1E4 /* NavigationBtnType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF71E2B5E9A9E008EC1E4 /* NavigationBtnType.swift */; };
+		655BF7212B5E9B2A008EC1E4 /* CustomNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF7202B5E9B2A008EC1E4 /* CustomNavigationBar.swift */; };
+		655BF7232B5E9F1E008EC1E4 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF7222B5E9F1E008EC1E4 /* Todo.swift */; };
+		655BF7282B5EA0A4008EC1E4 /* TodoListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655BF7272B5EA0A4008EC1E4 /* TodoListViewModel.swift */; };
+		65761E8E2B68D3D800198976 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65761E8D2B68D3D800198976 /* TodoListView.swift */; };
+		658B06912B7F4BEC0051F4AB /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 658B06902B7F4BEC0051F4AB /* Double+Extension.swift */; };
+		658B06942B7F4CF10051F4AB /* VoiceRecorderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 658B06932B7F4CF10051F4AB /* VoiceRecorderViewModel.swift */; };
+		65A52C932B908016004EC436 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C922B908016004EC436 /* NotificationService.swift */; };
+		65A52C952B908281004EC436 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C942B908281004EC436 /* AppDelegate.swift */; };
+		65A52C982B90B32E004EC436 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C972B90B32E004EC436 /* SettingView.swift */; };
+		65A52C9A2B90BCB5004EC436 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C992B90BCB5004EC436 /* Tab.swift */; };
+		65A52C9C2B90BD18004EC436 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C9B2B90BD18004EC436 /* HomeViewModel.swift */; };
+		65A52C9E2B90BD31004EC436 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A52C9D2B90BD31004EC436 /* HomeView.swift */; };
+		65D98DF92B8C7CC100AE8366 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D98DF82B8C7CC100AE8366 /* Time.swift */; };
+		65D98DFB2B8C7E8A00AE8366 /* Int+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D98DFA2B8C7E8A00AE8366 /* Int+Extension.swift */; };
+		65D98DFE2B8C836300AE8366 /* TimerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D98DFD2B8C836300AE8366 /* TimerViewModel.swift */; };
+		65D98E002B8C83A200AE8366 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D98DFF2B8C83A200AE8366 /* TimerView.swift */; };
+		65F7EE9F2B72231700D322B8 /* Memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7EE9E2B72231700D322B8 /* Memo.swift */; };
+		65F7EEA32B7224CC00D322B8 /* MemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7EEA22B7224CC00D322B8 /* MemoView.swift */; };
+		65F7EEA52B7224EC00D322B8 /* MemoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7EEA42B7224EC00D322B8 /* MemoViewModel.swift */; };
+		65F7EEA72B72250900D322B8 /* MemoListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7EEA62B72250900D322B8 /* MemoListViewModel.swift */; };
+		65F7EEA92B72252300D322B8 /* MemoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F7EEA82B72252300D322B8 /* MemoListView.swift */; };
+		65FCFED32B6B9C1200ADF89A /* TodoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FCFED22B6B9C1200ADF89A /* TodoViewModel.swift */; };
+		65FCFED52B6B9CF600ADF89A /* TodoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FCFED42B6B9CF600ADF89A /* TodoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +52,39 @@
 		653559432B597C6F00A86BC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		653559452B597C7200A86BC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		653559482B597C7200A86BC4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		653559502B59C26500A86BC4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		653559572B5A81F200A86BC4 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		6535595B2B5AEFC100A86BC4 /* OnboardingContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContent.swift; sourceTree = "<group>"; };
+		6535595F2B5AF0B200A86BC4 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		653559612B5AF2C900A86BC4 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		6546561E2B8892CE00873E57 /* VoiceRecorderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceRecorderView.swift; sourceTree = "<group>"; };
+		655BF70C2B5D0EA3008EC1E4 /* PathType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathType.swift; sourceTree = "<group>"; };
+		655BF70E2B5D0F0E008EC1E4 /* Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Path.swift; sourceTree = "<group>"; };
+		655BF7192B5D21AB008EC1E4 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		655BF71E2B5E9A9E008EC1E4 /* NavigationBtnType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBtnType.swift; sourceTree = "<group>"; };
+		655BF7202B5E9B2A008EC1E4 /* CustomNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationBar.swift; sourceTree = "<group>"; };
+		655BF7222B5E9F1E008EC1E4 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
+		655BF7272B5EA0A4008EC1E4 /* TodoListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListViewModel.swift; sourceTree = "<group>"; };
+		65761E8D2B68D3D800198976 /* TodoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListView.swift; sourceTree = "<group>"; };
+		658B06902B7F4BEC0051F4AB /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
+		658B06932B7F4CF10051F4AB /* VoiceRecorderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceRecorderViewModel.swift; sourceTree = "<group>"; };
+		65A52C922B908016004EC436 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		65A52C942B908281004EC436 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		65A52C972B90B32E004EC436 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		65A52C992B90BCB5004EC436 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		65A52C9B2B90BD18004EC436 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		65A52C9D2B90BD31004EC436 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		65D98DF82B8C7CC100AE8366 /* Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
+		65D98DFA2B8C7E8A00AE8366 /* Int+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Int+Extension.swift"; sourceTree = "<group>"; };
+		65D98DFD2B8C836300AE8366 /* TimerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewModel.swift; sourceTree = "<group>"; };
+		65D98DFF2B8C83A200AE8366 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		65F7EE9E2B72231700D322B8 /* Memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo.swift; sourceTree = "<group>"; };
+		65F7EEA22B7224CC00D322B8 /* MemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoView.swift; sourceTree = "<group>"; };
+		65F7EEA42B7224EC00D322B8 /* MemoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewModel.swift; sourceTree = "<group>"; };
+		65F7EEA62B72250900D322B8 /* MemoListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListViewModel.swift; sourceTree = "<group>"; };
+		65F7EEA82B72252300D322B8 /* MemoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListView.swift; sourceTree = "<group>"; };
+		65FCFED22B6B9C1200ADF89A /* TodoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoViewModel.swift; sourceTree = "<group>"; };
+		65FCFED42B6B9CF600ADF89A /* TodoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +117,13 @@
 		653559402B597C6F00A86BC4 /* voiceMemo */ = {
 			isa = PBXGroup;
 			children = (
-				653559412B597C6F00A86BC4 /* voiceMemoApp.swift */,
-				653559432B597C6F00A86BC4 /* ContentView.swift */,
+				6535594F2B59C24900A86BC4 /* App */,
+				653559522B5A814400A86BC4 /* Core */,
+				6535595D2B5AF07800A86BC4 /* Feature */,
+				653559592B5AEF6000A86BC4 /* Model */,
+				655BF71B2B5E9A3C008EC1E4 /* Component */,
 				653559452B597C7200A86BC4 /* Assets.xcassets */,
+				653559432B597C6F00A86BC4 /* ContentView.swift */,
 				653559472B597C7200A86BC4 /* Preview Content */,
 			);
 			path = voiceMemo;
@@ -65,6 +135,227 @@
 				653559482B597C7200A86BC4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6535594F2B59C24900A86BC4 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				653559412B597C6F00A86BC4 /* voiceMemoApp.swift */,
+				653559502B59C26500A86BC4 /* LaunchScreen.storyboard */,
+				65A52C942B908281004EC436 /* AppDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		653559522B5A814400A86BC4 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				653559532B5A815900A86BC4 /* Service */,
+				653559542B5A816700A86BC4 /* Extension */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		653559532B5A815900A86BC4 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				65A52C922B908016004EC436 /* NotificationService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		653559542B5A816700A86BC4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				653559572B5A81F200A86BC4 /* Color+Extension.swift */,
+				655BF7192B5D21AB008EC1E4 /* Date+Extension.swift */,
+				658B06902B7F4BEC0051F4AB /* Double+Extension.swift */,
+				65D98DFA2B8C7E8A00AE8366 /* Int+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		653559592B5AEF6000A86BC4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6535595A2B5AEF9900A86BC4 /* Onboarding */,
+				655BF70B2B5D0E86008EC1E4 /* Path */,
+				655BF7122B5D13EF008EC1E4 /* Todo */,
+				655BF7112B5D13EA008EC1E4 /* Memo */,
+				65D98DF52B8C7C4200AE8366 /* Timer */,
+				655BF7102B5D13E1008EC1E4 /* Home */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6535595A2B5AEF9900A86BC4 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				6535595B2B5AEFC100A86BC4 /* OnboardingContent.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		6535595D2B5AF07800A86BC4 /* Feature */ = {
+			isa = PBXGroup;
+			children = (
+				6535595E2B5AF08700A86BC4 /* Onboarding */,
+				655BF7242B5EA011008EC1E4 /* Home */,
+			);
+			path = Feature;
+			sourceTree = "<group>";
+		};
+		6535595E2B5AF08700A86BC4 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				6535595F2B5AF0B200A86BC4 /* OnboardingViewModel.swift */,
+				653559612B5AF2C900A86BC4 /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		655BF70B2B5D0E86008EC1E4 /* Path */ = {
+			isa = PBXGroup;
+			children = (
+				655BF70C2B5D0EA3008EC1E4 /* PathType.swift */,
+				655BF70E2B5D0F0E008EC1E4 /* Path.swift */,
+			);
+			path = Path;
+			sourceTree = "<group>";
+		};
+		655BF7102B5D13E1008EC1E4 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				65A52C992B90BCB5004EC436 /* Tab.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		655BF7112B5D13EA008EC1E4 /* Memo */ = {
+			isa = PBXGroup;
+			children = (
+				65F7EE9E2B72231700D322B8 /* Memo.swift */,
+			);
+			path = Memo;
+			sourceTree = "<group>";
+		};
+		655BF7122B5D13EF008EC1E4 /* Todo */ = {
+			isa = PBXGroup;
+			children = (
+				655BF7222B5E9F1E008EC1E4 /* Todo.swift */,
+			);
+			path = Todo;
+			sourceTree = "<group>";
+		};
+		655BF71B2B5E9A3C008EC1E4 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				655BF71C2B5E9A59008EC1E4 /* CustomView */,
+				655BF71D2B5E9A62008EC1E4 /* NavigationBar */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		655BF71C2B5E9A59008EC1E4 /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CustomView;
+			sourceTree = "<group>";
+		};
+		655BF71D2B5E9A62008EC1E4 /* NavigationBar */ = {
+			isa = PBXGroup;
+			children = (
+				655BF71E2B5E9A9E008EC1E4 /* NavigationBtnType.swift */,
+				655BF7202B5E9B2A008EC1E4 /* CustomNavigationBar.swift */,
+			);
+			path = NavigationBar;
+			sourceTree = "<group>";
+		};
+		655BF7242B5EA011008EC1E4 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				65A52C9D2B90BD31004EC436 /* HomeView.swift */,
+				65A52C9B2B90BD18004EC436 /* HomeViewModel.swift */,
+				655BF7252B5EA022008EC1E4 /* TodoList */,
+				65F7EEA02B72249100D322B8 /* MemoList */,
+				658B06922B7F4CB40051F4AB /* VoiceRecorder */,
+				65D98DFC2B8C834800AE8366 /* Timer */,
+				65A52C962B90B317004EC436 /* Setting */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		655BF7252B5EA022008EC1E4 /* TodoList */ = {
+			isa = PBXGroup;
+			children = (
+				655BF7262B5EA03A008EC1E4 /* Todo */,
+				655BF7272B5EA0A4008EC1E4 /* TodoListViewModel.swift */,
+				65761E8D2B68D3D800198976 /* TodoListView.swift */,
+			);
+			path = TodoList;
+			sourceTree = "<group>";
+		};
+		655BF7262B5EA03A008EC1E4 /* Todo */ = {
+			isa = PBXGroup;
+			children = (
+				65FCFED22B6B9C1200ADF89A /* TodoViewModel.swift */,
+				65FCFED42B6B9CF600ADF89A /* TodoView.swift */,
+			);
+			path = Todo;
+			sourceTree = "<group>";
+		};
+		658B06922B7F4CB40051F4AB /* VoiceRecorder */ = {
+			isa = PBXGroup;
+			children = (
+				658B06932B7F4CF10051F4AB /* VoiceRecorderViewModel.swift */,
+				6546561E2B8892CE00873E57 /* VoiceRecorderView.swift */,
+			);
+			path = VoiceRecorder;
+			sourceTree = "<group>";
+		};
+		65A52C962B90B317004EC436 /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				65A52C972B90B32E004EC436 /* SettingView.swift */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
+		65D98DF52B8C7C4200AE8366 /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				65D98DF82B8C7CC100AE8366 /* Time.swift */,
+			);
+			path = Timer;
+			sourceTree = "<group>";
+		};
+		65D98DFC2B8C834800AE8366 /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				65D98DFD2B8C836300AE8366 /* TimerViewModel.swift */,
+				65D98DFF2B8C83A200AE8366 /* TimerView.swift */,
+			);
+			path = Timer;
+			sourceTree = "<group>";
+		};
+		65F7EEA02B72249100D322B8 /* MemoList */ = {
+			isa = PBXGroup;
+			children = (
+				65F7EEA12B7224B400D322B8 /* Memo */,
+				65F7EEA62B72250900D322B8 /* MemoListViewModel.swift */,
+				65F7EEA82B72252300D322B8 /* MemoListView.swift */,
+			);
+			path = MemoList;
+			sourceTree = "<group>";
+		};
+		65F7EEA12B7224B400D322B8 /* Memo */ = {
+			isa = PBXGroup;
+			children = (
+				65F7EEA22B7224CC00D322B8 /* MemoView.swift */,
+				65F7EEA42B7224EC00D322B8 /* MemoViewModel.swift */,
+			);
+			path = Memo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +416,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				653559512B59C26500A86BC4 /* LaunchScreen.storyboard in Resources */,
 				653559492B597C7200A86BC4 /* Preview Assets.xcassets in Resources */,
 				653559462B597C7200A86BC4 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +429,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65D98DFE2B8C836300AE8366 /* TimerViewModel.swift in Sources */,
+				65A52C9C2B90BD18004EC436 /* HomeViewModel.swift in Sources */,
+				65FCFED32B6B9C1200ADF89A /* TodoViewModel.swift in Sources */,
+				655BF7282B5EA0A4008EC1E4 /* TodoListViewModel.swift in Sources */,
+				65F7EEA92B72252300D322B8 /* MemoListView.swift in Sources */,
+				65A52C9E2B90BD31004EC436 /* HomeView.swift in Sources */,
+				6546561F2B8892CE00873E57 /* VoiceRecorderView.swift in Sources */,
+				65A52C982B90B32E004EC436 /* SettingView.swift in Sources */,
+				653559602B5AF0B300A86BC4 /* OnboardingViewModel.swift in Sources */,
+				65D98DF92B8C7CC100AE8366 /* Time.swift in Sources */,
+				6535595C2B5AEFC100A86BC4 /* OnboardingContent.swift in Sources */,
+				65F7EEA72B72250900D322B8 /* MemoListViewModel.swift in Sources */,
+				65FCFED52B6B9CF600ADF89A /* TodoView.swift in Sources */,
+				655BF7232B5E9F1E008EC1E4 /* Todo.swift in Sources */,
+				655BF70F2B5D0F0E008EC1E4 /* Path.swift in Sources */,
+				65D98DFB2B8C7E8A00AE8366 /* Int+Extension.swift in Sources */,
+				65761E8E2B68D3D800198976 /* TodoListView.swift in Sources */,
+				65F7EEA32B7224CC00D322B8 /* MemoView.swift in Sources */,
+				655BF71F2B5E9A9E008EC1E4 /* NavigationBtnType.swift in Sources */,
+				65F7EE9F2B72231700D322B8 /* Memo.swift in Sources */,
+				65F7EEA52B7224EC00D322B8 /* MemoViewModel.swift in Sources */,
+				658B06912B7F4BEC0051F4AB /* Double+Extension.swift in Sources */,
+				655BF7212B5E9B2A008EC1E4 /* CustomNavigationBar.swift in Sources */,
+				655BF71A2B5D21AB008EC1E4 /* Date+Extension.swift in Sources */,
+				65A52C952B908281004EC436 /* AppDelegate.swift in Sources */,
 				653559442B597C6F00A86BC4 /* ContentView.swift in Sources */,
+				653559622B5AF2C900A86BC4 /* OnboardingView.swift in Sources */,
+				65D98E002B8C83A200AE8366 /* TimerView.swift in Sources */,
+				653559582B5A81F200A86BC4 /* Color+Extension.swift in Sources */,
+				65A52C9A2B90BCB5004EC436 /* Tab.swift in Sources */,
 				653559422B597C6F00A86BC4 /* voiceMemoApp.swift in Sources */,
+				655BF70D2B5D0EA3008EC1E4 /* PathType.swift in Sources */,
+				65A52C932B908016004EC436 /* NotificationService.swift in Sources */,
+				658B06942B7F4CF10051F4AB /* VoiceRecorderViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,6 +592,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_ASSET_SYMBOLS = NO;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -275,11 +600,14 @@
 				DEVELOPMENT_TEAM = FS3L3HP5F9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -297,6 +625,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_ASSET_SYMBOLS = NO;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -304,11 +633,14 @@
 				DEVELOPMENT_TEAM = FS3L3HP5F9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
